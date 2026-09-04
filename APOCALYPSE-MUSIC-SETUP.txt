@@ -1,0 +1,15 @@
+Optional music file:
+Place a legally obtained/licensed copy of "Apocalypse" by Cigarettes After Sex
+in this folder as:
+
+    apocalypse.mp3
+
+The portfolio already looks for /assets/apocalypse.mp3 first.
+If that file is not present, it automatically falls back to:
+    after-the-signal-original.wav
+
+The official artist YouTube audio is:
+https://www.youtube.com/watch?v=sElE_BfQ67s
+
+Browser autoplay restrictions mean playback starts only after the user clicks
+the SCORE / PLAY SCORE control.
